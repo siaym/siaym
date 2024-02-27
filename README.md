@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siaym
 - 👀 I’m interested in ... #coding 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...#Html, css and java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... fb :https://www.facebook.com/iftekhar.mehersiam?mibextid=ZbWKwL
 - 😄 Pronouns: ... He 

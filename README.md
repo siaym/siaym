@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... #coding 
 - 🌱 I’m currently learning ...#Html, css and java 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... fb :https://www.facebook.com/iftekhar.mehersiam?mibextid=ZbWKwL
+- 📫 How to reach me ...  :officehub.siyam@gmail.com
 - 😄 Pronouns: ... He 
 - ⚡ Fun fact: ... chapak 
 

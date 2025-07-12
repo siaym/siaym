@@ -13,11 +13,14 @@ Currently building web applications, exploring C-based system design, and advanc
 
 ---
 
-### 🧠 Tech I Work With
+### 🛠️ Tech Stack
 
-- 🖥️ Languages: C, C++, Python, JavaScript, HTML, CSS
-- 🔐 Fields of Interest: Cybersecurity, Real-Time Systems, Clean Code
-- ⚙️ Tools: Git & GitHub, VS Code, Linux, Excel, PowerPoint
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 

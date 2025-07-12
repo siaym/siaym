@@ -2,7 +2,6 @@
 
 🚀 CSE Student | Aspiring Cybersecurity Pro  
 💻 Real-Time Systems | Web App Dev | Clean Code Advocate  
-📍 Based in Dhaka, Bangladesh
 
 ---
 

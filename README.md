@@ -42,7 +42,7 @@ Currently building web applications, exploring C-based system design, and advanc
 
 ### 🔧 Projects Worth Checking
 
-- 🎯 [C Calculator](https://github.com/siaym/calculator-in-c): Command-line calculator with loops, error handling, and basic arithmetic
+- 🎯 Command-line calculator with loops, error handling, and basic arithmetic
 - 🧪 Web Portfolio *(in progress)*: Pixel-perfect, animated storytelling site built from scratch
 - 🔍 Cybersecurity Tools: Research-based tools & practice scripts (coming soon)
 
